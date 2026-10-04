@@ -11,8 +11,8 @@
 #define WIFI_PASSWORD "YOUR WIFI PASSWORD"
 
 /* FIREBASE */
-#define API_KEY "AIzaSyBpHFoVBtY5kN0qms6STfnH6eTE7DXzZvQ"
-#define DATABASE_URL "testrun-76efe-default-rtdb.firebaseio.com"
+#define API_KEY "YOUR_FIREBASE_API_KEY"
+#define DATABASE_URL "YOUR_FIREBASE_DATABASE_URL"
 
 /* TFT */
 #define TFT_CS   15
