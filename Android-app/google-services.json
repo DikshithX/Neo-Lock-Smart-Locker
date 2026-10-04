@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "421187333046",
+    "firebase_url": "https://testrun-76efe-default-rtdb.firebaseio.com",
+    "project_id": "testrun-76efe",
+    "storage_bucket": "testrun-76efe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421187333046:android:d8cb19408a8240dc092f17",
+        "android_client_info": {
+          "package_name": "com.example.testrun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhCvtAkO2uPBpdJKAD26iWgwdJkdenTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
